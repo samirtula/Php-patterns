@@ -1,0 +1,16 @@
+{
+    "name": "octopus/patterns",
+    "description": "patterns training",
+    "authors": [
+        {
+            "name": "Самир",
+            "email": "s.gahramanov@intensa.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Patterns\\": "Patterns"
+        }
+    },
+    "require": {}
+}
